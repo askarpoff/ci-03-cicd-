@@ -34,6 +34,7 @@
 ![image](https://user-images.githubusercontent.com/108946489/224491596-9e5d2d44-7f39-4522-8823-2b5d0e3f9e6a.png)
 
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
+https://github.com/askarpoff/ci-03-cicd-/blob/main/maven-metadata.xml
 
 ### Знакомство с Maven
 
