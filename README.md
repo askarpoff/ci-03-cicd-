@@ -47,5 +47,5 @@
 ![image](https://user-images.githubusercontent.com/108946489/224494100-3dc92ebf-6b00-4dde-86ca-d80250255055.png)
 4. В ответе пришлите исправленный файл `pom.xml`.
 
+<a href='https://raw.githubusercontent.com/askarpoff/ci-03-cicd-/main/mvn/pom.xml'>`maven-metadata.xml`</a
 
-https://raw.githubusercontent.com/askarpoff/ci-03-cicd-/main/mvn/pom.xml
