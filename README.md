@@ -43,4 +43,5 @@ https://github.com/askarpoff/ci-03-cicd-/blob/main/maven-metadata.xml
 1. Поменяйте в `pom.xml` блок с зависимостями под ваш артефакт из первого пункта задания для Nexus (java с версией 8_282).
 2. Запустите команду `mvn package` в директории с `pom.xml`, ожидайте успешного окончания.
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
+![image](https://user-images.githubusercontent.com/108946489/224494100-3dc92ebf-6b00-4dde-86ca-d80250255055.png)
 4. В ответе пришлите исправленный файл `pom.xml`.
