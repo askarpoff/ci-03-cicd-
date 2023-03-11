@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/108946489/224491596-9e5d2d44-7f39-4522-8823-2b5d0e3f9e6a.png)
 
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
-https://github.com/askarpoff/ci-03-cicd-/blob/main/maven-metadata.xml
+https://raw.githubusercontent.com/askarpoff/ci-03-cicd-/main/maven-metadata.xml
 
 ### Знакомство с Maven
 
@@ -45,3 +45,4 @@ https://github.com/askarpoff/ci-03-cicd-/blob/main/maven-metadata.xml
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
 ![image](https://user-images.githubusercontent.com/108946489/224494100-3dc92ebf-6b00-4dde-86ca-d80250255055.png)
 4. В ответе пришлите исправленный файл `pom.xml`.
+https://raw.githubusercontent.com/askarpoff/ci-03-cicd-/main/mvn/pom.xml
